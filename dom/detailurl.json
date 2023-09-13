@@ -1,0 +1,59 @@
+{
+    "checkLanguage":{
+        "elementLanguage":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-r0hg2a-DivSideNavContainer.e1irlpdw1 > div > div.tiktok-gf0mh2-DivSideNavContainer.e14l9ebt1 > div > div.tiktok-1a4urrd-DivWrapper.e14l9ebt2 > div.tiktok-1inll25-DivMainNavContainer.e14l9ebt9 > div:nth-child(1) > a > h2"
+    },
+    "checkFormUrl":{
+        "elementCheckFromUrl":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx2 > div.tiktok-1czmy9n-DivVideoList.ege8lhx5 > p"
+    },
+    "domCheckFromLinkTrue":{
+        "vietnamese":{
+            "elementDate":".tiktok-lh6ok5-SpanOtherInfos.e17fzhrb2 > span:nth-child(2)",
+            "elementContent":".tiktok-1w3beeo-DivVideoInfoContainer.eqrezik2 > div",
+            "elementTotalLikes":".tiktok-dx5eru-DivActionItemContainer.ean6quk0 > button:nth-child(1) > strong",
+            "elementTotalComments":".tiktok-dx5eru-DivActionItemContainer.ean6quk0 > button:nth-child(2) > strong",
+            "elementtotalShares":".tiktok-dx5eru-DivActionItemContainer.ean6quk0 > button:nth-child(3) > strong",
+            "elementMusic":".tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-1w3beeo-DivVideoInfoContainer.eqrezik2 > h4 > a",
+            "elementProfile":".tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-1w3beeo-DivVideoInfoContainer.eqrezik2",
+            "elementUrlError":".tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-143utqi-PTitle.emuynwa1"
+        },
+        "english":{
+            "elementDate":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx2 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx3 > div.tiktok-phmoj-DivAuthorContainer.ege8lhx4 > div > a.tiktok-1b6v967-StyledLink.e17fzhrb4 > span.tiktok-lh6ok5-SpanOtherInfos.e17fzhrb2 > span:nth-child(3)",
+            "elementContent":".tiktok-1w3beeo-DivVideoInfoContainer.eqrezik2 > div",
+            "elementTotalLikes":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-2vzllv-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx6 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx7 > div.tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(1) > strong",
+            "elementTotalComments":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-2vzllv-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx6 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx7 > div.tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(2) > strong",
+            "elementtotalShares":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-2vzllv-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx6 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx7 > div.tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(3) > strong",
+            "elementProfile":".tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-aixzci-DivVideoInfoContainer.eqrezik2",
+            "elementUrlError":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-1c74ckh-PTitle.emuynwa1",
+            "elementClickSiteId":".tiktok-1b6v967-StyledLink.e17fzhrb3 > span.tiktok-1r8gltq-SpanUniqueId.e17fzhrb1",
+            "elementSiteId":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h2",
+            "elementSiteName":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h1",
+            "elementUrl":"head > link:nth-child(39)"
+       
+        }
+    },
+    "domCheckFormLinkFalse":{
+        "vietnamese":{
+            "elementDate":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-1hhj6ie-DivTextInfoContainer.etvrc4k7 > div.tiktok-1mnwhn0-DivAuthorContainer.etvrc4k6 > a.tiktok-1lqhxf7-StyledAuthorAnchor.emt6k1z1",
+            "elementContent":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-1hhj6ie-DivTextInfoContainer.etvrc4k7 > div.tiktok-1ejylhp-DivContainer.e1h0bjw60",
+            "elementTotalLikes":" div:nth-child(1) > div:nth-child(1) > div > div.tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-wc6k4c-DivActionItemContainer.e1whjx9o0 > button:nth-child(1) > strong",
+            "elementTotalComments":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-wc6k4c-DivActionItemContainer.e1whjx9o0 > button:nth-child(2) > strong",
+            "elementtotalShares":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-wc6k4c-DivActionItemContainer.e1whjx9o0 > button:nth-child(3) > strong",
+            "elementMusic":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-1hhj6ie-DivTextInfoContainer.etvrc4k7 > h4 > a",
+            "elementProfile":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-wc6k4c-DivActionItemContainer.e1whjx9o0",
+            "elementUrlError":".tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-143utqi-PTitle.emuynwa1"
+        },
+        "english":{
+            "elementDate":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-1hhj6ie-DivTextInfoContainer.etvrc4k7 > div.tiktok-1mnwhn0-DivAuthorContainer.etvrc4k6 > a.tiktok-1lqhxf7-StyledAuthorAnchor.emt6k1z1",
+            "elementContent":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-1hhj6ie-DivTextInfoContainer.etvrc4k7 > div.tiktok-1ejylhp-DivContainer.e1h0bjw60",
+            "elementTotalLikes":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx2 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx3 > div.tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-14a6qal-DivVideoContainer.eqrezik6 > div.tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(1) > strong",
+            "elementTotalComments":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx2 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx3 > div.tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-14a6qal-DivVideoContainer.eqrezik6 > div.tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(2) > strong",
+            "elementtotalShares":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx2 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx3 > div.tiktok-1sb4dwc-DivPlayerContainer.eqrezik3 > div.tiktok-14a6qal-DivVideoContainer.eqrezik6 > div.tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(3) > strong",
+            "elementMusic":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-1hhj6ie-DivTextInfoContainer.etvrc4k7 > h4 > a",
+            "elementProfile":".tiktok-12kupwv-DivContentContainer.ege8lhx2 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx3 > div.tiktok-phmoj-DivAuthorContainer.ege8lhx4",
+            "elementUrlError":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-5e76ju-DivMainContainer.elnrzms0 > div.tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-1c74ckh-PTitle.emuynwa1"
+            
+        }
+
+    }
+    
+}

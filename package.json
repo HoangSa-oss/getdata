@@ -1,0 +1,49 @@
+{
+  "name": "apitiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node index.js",
+    "test.js": "babel-node test.js",
+    "worktiktoksource": "babel-node controller/worktiktoksouce.js",
+    "bulltiktoksource": "babel-node bull/bulltiktoksource.js",
+    "workurlpost": "babel-node controller/workurlpost.js",
+    "bullurlpost": "babel-node bull/bullurlpost.js",
+    "workdetailurl": "babel-node controller/workdetailurl.js",
+    "bulldetailurl": "babel-node bull/bulldetailurl.js",
+    "workcomment": "babel-node controller/workcomment.js",
+    "bullcomment": "babel-node bull/bullcomment.js",
+    "getcookie": "babel-node controller/getcookie.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "@types/body-parser": "^1.19.2",
+    "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^8.5.8",
+    "body-parser": "^1.20.0"
+  },
+  "dependencies": {
+    "bull": "^4.8.3",
+    "delay": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.3",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16",
+    "puppeteer": "^14.4.1",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}

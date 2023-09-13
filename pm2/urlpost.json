@@ -1,0 +1,10 @@
+{
+    "apps" : [{
+        "name"        : "monitorworkurlpost",
+        "script"      : "./controller/workurlpost.js"
+    },{
+        "name"       : "monitorbullurlpost",
+        "script"     : "./bull/bullurlpost.js",
+        "cron_restart":"*/5 * * * *"
+    }]
+}

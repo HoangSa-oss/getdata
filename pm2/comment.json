@@ -1,0 +1,11 @@
+{
+    "apps" : [{
+        "name"        : "monitorworkcomment",
+        "script"      : "./controller/workcomment.js"
+    },{
+        "name"       : "monitorbullcomment",
+        "script"     : "./bull/bullcomment.js",
+        "cron_restart":"*/3 * * * *"
+    }]
+}
+

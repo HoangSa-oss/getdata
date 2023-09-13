@@ -1,0 +1,26 @@
+{
+    "checkLanguage":{
+        "elementLanguage":".tiktok-1inll25-DivMainNavContainer.e14l9ebt8 > div:nth-child(1) > a > h2"
+    },
+    "vietnamese":{
+        "elementId":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h2",
+        "elementName":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h1",
+        "elementFollowing":"h2.tiktok-7k173h-H2CountInfos.e1457k4r0 > div:nth-child(1) > strong",
+        "elementFollowers":"h2.tiktok-7k173h-H2CountInfos.e1457k4r0 > div:nth-child(2) > strong",
+        "elementLikes":"h2.tiktok-7k173h-H2CountInfos.e1457k4r0 > div:nth-child(3) > strong",
+        "elementDescription":".tiktok-b1wpe9-H2ShareDesc.e1457k4r3",
+        "elementDescriptionLink":".tiktok-kk9x8q-DivShareLinks.eht0fek0 > a > span",
+        "elementProfile":".tiktok-1g04lal-DivShareLayoutHeader-StyledDivShareLayoutHeaderV2.elmjn4l2"       
+    },
+    "english":{
+        "elementId":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h2",
+        "elementName":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h1",
+        "elementFollowing":"h2.tiktok-7k173h-H2CountInfos.e1457k4r0 > div:nth-child(1) > strong",
+        "elementFollowers":"h2.tiktok-7k173h-H2CountInfos.e1457k4r0 > div:nth-child(2) > strong",
+        "elementLikes":"h2.tiktok-7k173h-H2CountInfos.e1457k4r0 > div:nth-child(3) > strong",
+        "elementDescription":".tiktok-b1wpe9-H2ShareDesc.e1457k4r3",
+        "elementDescriptionLink":".tiktok-kk9x8q-DivShareLinks.eht0fek0 > a > span",
+        "elementProfile":".tiktok-1g04lal-DivShareLayoutHeader-StyledDivShareLayoutHeaderV2.elmjn4l2" ,
+        "elementUrlError":".tiktok-143utqi-PTitle.emuynwa1"
+    }
+}

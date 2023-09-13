@@ -1,0 +1,89 @@
+{
+    "checkLanguage":{
+        "elementLanguage":"div.tiktok-1inll25-DivMainNavContainer.e14l9ebt8 > div:nth-child(1) > a > h2"
+    },
+    "checkFormUrl":{
+        "elementCheckFromUrl":".tiktok-12kupwv-DivContentContainer.ege8lhx6 > div.tiktok-1czmy9n-DivVideoList.ege8lhx9 > p"
+    },
+    "domCheckFromLinkTrue":{
+        "vietnamese":{
+            "elementComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0",
+            "elementNameUserComment":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementDateComment":".tiktok-iq73u3-PCommentSubContent.e1g2efjf8 > span:nth-child(1)",
+            "elementLikeComment":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > p.tiktok-iq73u3-PCommentSubContent.e1g2efjf8 > div > span",
+            "elementMoreReplies":"div.tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > p",
+            "elementViewMore":".tiktok-1gc1iuy-DivReplyActionContainer.eo72wou2 > p:nth-child(1)",
+            "elementCommentContent":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > p.tiktok-q9aj5z-PCommentText.e1g2efjf6",
+            "elementLastChildComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0 > div:last-child",
+            "elementLoading":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > svg",
+            "elementUrlName":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementUrlError":".tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-143utqi-PTitle.emuynwa1",
+            "elementTotalComment":".tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(2) > strong"
+        },
+        "english":{
+            "elementComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0",
+            "elementNameUserComment":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementDateComment":".tiktok-iq73u3-PCommentSubContent.e1g2efjf8 > span:nth-child(1)",
+            "elementLikeComment":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > p.tiktok-iq73u3-PCommentSubContent.e1g2efjf8 > div > span",
+            "elementFatherViewMore":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div.tiktok-1gc1iuy-DivReplyActionContainer.eo72wou2",
+            "elementMoreReplies":"div.tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > p",
+            "elementViewMore":".tiktok-gowpsa-DivReplyActionContainer.eo72wou2 > p:nth-child(1)",
+            "elementCommentContent":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > p.tiktok-q9aj5z-PCommentText.e1g2efjf6",
+            "elementLastChildComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0 > div:last-child",
+            "elementLoading":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > svg",
+            "elementUrlName":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementLastChildScroll":".tiktok-1ko6l9n-DivCommentListContainer.ekjxngi0 > div:last-child",
+            "elementUrlError":".tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-143utqi-PTitle.emuynwa1",
+            "elementTotalComment":".tiktok-ln2tr4-DivActionItemContainer.ean6quk0 > button:nth-child(2) > strong",
+            "elementMutation":"#app > div.tiktok-ywuvyb-DivBodyContainer.e1irlpdw0 > div.tiktok-2vzllv-DivMainContainer.elnrzms0 > div.tiktok-19j62s8-DivVideoDetailContainer.ege8lhx0 > div.tiktok-12kupwv-DivContentContainer.ege8lhx6 > div.tiktok-1senhbu-DivLeftContainer.ege8lhx7 > div.tiktok-x4xlc7-DivCommentContainer.e1a7v7ak0 > div.tiktok-1ko6l9n-DivCommentListContainer.ekjxngi0",
+            "elementUrl":"head > link:nth-child(39)",
+            "elementIdComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0",
+            "elementClickSiteId":".tiktok-1b6v967-StyledLink.e17fzhrb3 > span.tiktok-1r8gltq-SpanUniqueId.e17fzhrb1",
+            "elementSiteId":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h2",
+            "elementSiteName":".tiktok-1hdrv89-DivShareTitleContainer.ekmpd5l3 > h1",
+            "elementTitle":".tiktok-1w3beeo-DivVideoInfoContainer.eqrezik2 > div",
+            "elementDate":".tiktok-lh6ok5-SpanOtherInfos.e17fzhrb2 > span:nth-child(2)"
+
+        }
+    },
+    "domCheckFormLinkFalse":{
+        "vietnamese":{
+            "elemenClick":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-1lh5noh-DivVideoCardContainer.e1bh0wg77 > div > div.tiktok-yf3ohr-DivContainer.e1yey0rl0 > div",
+            "elementContainer":".tiktok-3q30id-DivContentContainer.e1mecfx00 > div.tiktok-46wese-DivCommentListContainer.ekjxngi0",
+            "elementComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0",
+            "elementLastChildComment":".tiktok-46wese-DivCommentListContainer.ekjxngi0 > div:last-child",
+            "elementMoreReplies":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > p",
+            "elementViewMore":".tiktok-1gc1iuy-DivReplyActionContainer.eo72wou2 > p:nth-child(1)",
+            "elementLoading":".tiktok-1gc1iuy-DivReplyActionContainer.eo72wou2 > div > svg",
+            "elementNameUserComment":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementDateComment":".tiktok-iq73u3-PCommentSubContent.e1g2efjf8 > span:nth-child(1)",
+            "elementLikeComment":".tiktok-mnluvt-DivActionContainer.esns4rh0 > div.tiktok-t4fbi8-DivLikeWrapper.ezxoskx0 > span",
+            "elementCommentContent":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > p.tiktok-q9aj5z-PCommentText.e1g2efjf6",
+            "elementUrlName":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementUrlError":".tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-143utqi-PTitle.emuynwa1",
+            "elementTotalComment":".tiktok-ccy4er-DivFlexCenterRow-StyledWrapper.ehlq8k32 > div:nth-child(1) > button:nth-child(2) > strong",
+            "elementClickFormNew":".tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-1kx4ci3-DivVideoCardContainer.e1bh0wg77 > div > div.tiktok-1xe50ry-DivContainer.e1yey0rl0 > div"
+        },
+        "english":{
+            "elemenClick":"div:nth-child(1) > div:nth-child(1) > div > div.tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-1lh5noh-DivVideoCardContainer.e1bh0wg77 > div > div.tiktok-yf3ohr-DivContainer.e1yey0rl0 > div",
+            "elementContainer":".tiktok-3q30id-DivContentContainer.e1mecfx00 > div.tiktok-46wese-DivCommentListContainer.ekjxngi0",
+            "elementComment":".tiktok-1kimton-DivCommentContentContainer.e1g2efjf0",
+            "elementFatherViewMore":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div.tiktok-1gc1iuy-DivReplyActionContainer.eo72wou2",
+            "elementLastChildComment":".tiktok-46wese-DivCommentListContainer.ekjxngi0 > div:last-child",
+            "elementMoreReplies":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > p",
+            "elementViewMore":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div.tiktok-1gc1iuy-DivReplyActionContainer.eo72wou2 > p:nth-child(1)",
+            "elementLoading":".tiktok-zn6r1p-DivReplyContainer.eo72wou1 > div > svg",
+            "elementNameUserComment":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementDateComment":".tiktok-iq73u3-PCommentSubContent.e1g2efjf8 > span:nth-child(1)",
+            "elementLikeComment":".tiktok-mnluvt-DivActionContainer.esns4rh0 > div.tiktok-t4fbi8-DivLikeWrapper.ezxoskx0 > span",
+            "elementCommentContent":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > p.tiktok-q9aj5z-PCommentText.e1g2efjf6",
+            "elementUrlName":".tiktok-1mf23fd-DivContentContainer.e1g2efjf1 > a",
+            "elementUrlError":".tiktok-u2vwc1-DivErrorWrapper.elnrzms1 > div > p.tiktok-143utqi-PTitle.emuynwa1",
+            "elementLastChildScroll":".tiktok-46wese-DivCommentListContainer.ekjxngi0 > div:last-child",
+            "elementTotalComment":".tiktok-ccy4er-DivFlexCenterRow-StyledWrapper.ehlq8k32 > div:nth-child(1) > button:nth-child(2) > strong",
+            "elementClickFormNew":".tiktok-kd7foj-DivVideoWrapper.e1bh0wg716 > div.tiktok-1kx4ci3-DivVideoCardContainer.e1bh0wg77 > div > div.tiktok-1xe50ry-DivContainer.e1yey0rl0 > div"
+        }
+
+    }
+    
+}

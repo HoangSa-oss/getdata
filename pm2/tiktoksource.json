@@ -1,0 +1,9 @@
+{
+    "apps" : [{
+        "name"        : "monitorworktiktoksource",
+        "script"      : "./controller/worktiktoksouce.js"
+    },{
+        "name"       : "monitorbulltiktoksource",
+        "script"     : "./bull/bulltiktoksource.js"
+    }]
+}
