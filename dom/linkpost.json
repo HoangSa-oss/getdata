@@ -13,9 +13,8 @@
         "elementVideoLastChild":"#main-content-others_homepage > div > div.tiktok-833rgq-DivShareLayoutMain.ee7zj8d4 > div.tiktok-1qb12g8-DivThreeColumnContainer.eegew6e2 > div > div:last-child",
         "elementVideo":"#main-content-others_homepage > div > div.tiktok-833rgq-DivShareLayoutMain.ee7zj8d4 > div.tiktok-1qb12g8-DivThreeColumnContainer.eegew6e2 > div > div",
         "elementView":"div.tiktok-11u47i-DivCardFooter.e148ts220 > strong",
-        "elementUrlError":"#main-content-others_homepage > div > main > div > p",
-        "elementUrlError2":"#main-content-others_homepage > div > div.tiktok-833rgq-DivShareLayoutMain.ee7zj8d4 > main > div > p"
+        "elementUrlError":"#main-content-others_homepage > div > div.tiktok-833rgq-DivShareLayoutMain.ee7zj8d4 > main > div > p.emuynwa1",
+        "elementUrlError2":"#main-content-others_homepage > div > div.tiktok-833rgq-DivShareLayoutMain.ee7zj8d4 > div.tiktok-1tttox1-DivErrorContainer.emuynwa0 > p.tiktok-1ovqurc-PTitle.emuynwa1"
 
     }
 }
- 

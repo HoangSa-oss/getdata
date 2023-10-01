@@ -12,7 +12,7 @@ import fs from 'fs/promises'
 import moment from 'moment/moment.js';
 const queueLinkPost = new Queue('queueLinkPost','redis://127.0.0.1:6379')
 const  tiktokVideo= async ()=>{
-    const date = '2023-09-11'
+    const date = '2023-09-27'
     const dateTimeStamp = moment(date).format('X')
     console.log(dateTimeStamp)
     const getEnd = 8;
